@@ -1,6 +1,19 @@
 # E-Commerce-API
 ## Developed And Designed By Manish-Chndrakar
 
+
+# For Creating 
+ https://e-commerce-api-9pio.onrender.com/products/create
+ name : <product_name>
+ quantity : <no._of_Quantity>
+# Deleting
+https://e-commerce-api-9pio.onrender.com/products/64786f5399f0636f9de64983
+
+#  For Updating
+https://e-commerce-api-9pio.onrender.com/products/<product_ID>/update_quantity/?number=<number_of_quantity>
+
+
+
 # ABOUT
 This is an E-commerce API made using Node.Js & MongoDB. 
 
